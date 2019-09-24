@@ -1,10 +1,10 @@
 h1 {
     font-size: 25px;
-    position: relative;
+    text-align: center;
 }
 
 p {
-    position: relative;
+    text-align: center;
 }
 
 body {
